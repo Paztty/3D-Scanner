@@ -1,0 +1,120 @@
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\obj\Debug\3D Scanner.csproj.AssemblyReference.cache
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\obj\Debug\MainWindow.g.cs
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\obj\Debug\App.g.cs
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\obj\Debug\3D Scanner_MarkupCompile.cache
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\obj\Debug\3D Scanner_MarkupCompile.lref
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\obj\Debug\CSS\StyleDictionary.baml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\3D Scanner.exe.config
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\3D Scanner.exe
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\3D Scanner.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\obj\Debug\App.baml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\obj\Debug\MainWindow.baml
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\obj\Debug\3D Scanner.g.resources
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\obj\Debug\_3D_Scanner.Properties.Resources.resources
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\obj\Debug\3D Scanner.csproj.GenerateResource.cache
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\obj\Debug\3D Scanner.csproj.CoreCompileInputs.cache
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\obj\Debug\3D Scanner.csproj.Up2Date
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\obj\Debug\3D Scanner.exe
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\obj\Debug\3D Scanner.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\System.Drawing.Common.dll
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\System.Drawing.Common.pdb
+D:\TNG\1.Project\4.3D scanner\2.Software\3D-Scanner\3D Scanner\3D Scanner\bin\Debug\System.Drawing.Common.xml
