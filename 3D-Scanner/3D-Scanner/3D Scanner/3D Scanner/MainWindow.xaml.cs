@@ -65,11 +65,22 @@ namespace _3D_Scanner
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            _program.HeightMap.Raw.X.Clear();
+            _program.HeightMap.Raw.Y.Clear();
+            _program.HeightMap.Raw.Z.Clear();
             _program.ImportData();
-            _program.HeightMap.Create3DModel();
-            modelViewer.Content = _program.HeightMap.Model;
             _program.HeightMap.CreateHeightMap();
             Image2DViewwer.Source = _program.HeightMap.HeightMapImage;
+            view3D.CreateView(_program.HeightMap.Raw, _program.HeightMap.HeightMapImage, _program.HeightMap.Raw.X.Count, _program.HeightMap.Raw.Y.Count);
+            //_program.HeightMap.Create3DModel();
+            //modelViewer.Content = _program.HeightMap.Model;
+            //modelview.Children.Add(_program.HeightMap.pointsVisual3D);
+
+        }
+
+        private void window_KeyDown(object sender, KeyEventArgs e)
+        {
+            view3D.Viewwer3D_ViewerKeyDown(e, e);
         }
 
     }

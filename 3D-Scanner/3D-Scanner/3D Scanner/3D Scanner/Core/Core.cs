@@ -55,7 +55,7 @@ namespace _3D_Scanner.Core
         public static double clean = 0;
         public static double KalmanFilter(double noisy)
         {
-            double K = 0.125;  // noise 0 < K < 1
+            double K = 0.07;  // noise 0 < K < 1
             if (clean == 0)
             {
                 clean = noisy;

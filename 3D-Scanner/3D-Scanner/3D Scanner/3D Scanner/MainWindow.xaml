@@ -4,6 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_3D_Scanner"
+        xmlns:ctr="clr-namespace:_3D_Scanner.User_Control"
         xmlns:HelixToolkit="http://helix-toolkit.org/wpf"
         xmlns:icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
         xmlns:logic="clr-namespace:_3D_Scanner.Logic" 
@@ -13,8 +14,9 @@
         Background="Transparent" WindowStartupLocation="CenterScreen"
         x:Name="window" WindowState="Maximized" StateChanged="window_StateChanged"
         Title="External Quality Inspection" Width="1300" Height="700"
-        
-        SourceInitialized="window_SourceInitialized" BorderThickness="1">
+        SourceInitialized="window_SourceInitialized" BorderThickness="1"
+        KeyDown="window_KeyDown">
+
     <Border x:Name="MainBorder" CornerRadius="5"  BorderThickness="0" Background="{StaticResource Background}">
         <Border.OpacityMask>
             <VisualBrush>
@@ -100,18 +102,25 @@
                     <ColumnDefinition Width="300"/>
                 </Grid.ColumnDefinitions>
                 <Grid Background="#232323" Margin="10">
-                    <HelixToolkit:HelixViewport3D ShowFrameRate="True" ZoomExtentsWhenLoaded="True" ZoomAroundMouseDownPoint="True" RotateAroundMouseDownPoint="True" IsTopBottomViewOrientedToFrontBack="True" IsViewCubeEdgeClicksEnabled="True"
+                    <ctr:Viewwer3D x:Name="view3D" Background="#232323"/>
+                    <!--<HelixToolkit:HelixViewport3D x:Name="modelview" ShowFrameRate="True" ZoomExtentsWhenLoaded="True" ZoomAroundMouseDownPoint="True" RotateAroundMouseDownPoint="True" IsTopBottomViewOrientedToFrontBack="True" IsViewCubeEdgeClicksEnabled="True"
                                                   >
 
 
-                        <!--  Remember to add light to the scene  -->
+                        -->
+                    <!--  Remember to add light to the scene  -->
+                    <!--
                         <HelixToolkit:SunLight />
 
-                        <!--  The content of this visual is defined in MainViewModel.cs  -->
+                        -->
+                    <!--  The content of this visual is defined in MainViewModel.cs  -->
+                    <!--
                         <ModelVisual3D x:Name="modelViewer" Content="{Binding HeightMap.Model}"
                                        />
 
-                        <!--  You can also add elements here in the xaml  -->
+                        -->
+                    <!--  You can also add elements here in the xaml  -->
+                    <!--
                         <HelixToolkit:GridLinesVisual3D
                             Center="0,50,0"
                             Width="100"
@@ -120,13 +129,22 @@
                             MinorDistance="10"
                             Thickness="0.01"/>
 
-                    </HelixToolkit:HelixViewport3D>
+                    </HelixToolkit:HelixViewport3D>-->
 
                     <Label Background="Gray" Foreground="Black" Content="3D View" Margin="5"
                            VerticalAlignment="Top" HorizontalAlignment="Left" Padding="10 5"/>
                 </Grid>
                 <Grid Background="#232323" Grid.Column="1" Margin="0, 10">
-                    <Image x:Name="Image2DViewwer" Grid.Column="1" Margin="10"/>
+                    <Image x:Name="Image2DViewwer" Grid.Column="1" Margin="10"  RenderTransformOrigin="0.5,0.5">
+                        <Image.RenderTransform>
+                        <TransformGroup>
+                                <ScaleTransform ScaleX="-1"/>
+                                <SkewTransform/>
+                            <RotateTransform/>
+                            <TranslateTransform/>
+                        </TransformGroup>
+                        </Image.RenderTransform>
+                    </Image>
                     <Label Background="Gray" Foreground="Black" Content="2D View" Margin="5"
                            VerticalAlignment="Top" HorizontalAlignment="Left" Padding="10 5"/>
                 </Grid>

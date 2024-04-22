@@ -32,7 +32,8 @@ namespace _3D_Scanner.Logic
 		public void ImportData()
 		{
             var Raw = PointCloundImport.Import();
-			HeightMap.Raw = Raw;
+			HeightMap.Raw = null;
+            HeightMap.Raw = Raw;
 			Console.WriteLine("Debug point");
 		}
 		public void CreateHeightMap()
